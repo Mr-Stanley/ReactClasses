@@ -1,0 +1,12 @@
+.input{
+    width: 200px;
+    display: flex;
+}
+.btn{
+    width : 100px;
+    height: 30px;
+    background: rgb(40, 8, 224);
+    background-color: rgb(216, 129, 22);
+
+
+}
